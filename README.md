@@ -1,5 +1,9 @@
 # PCA-as-autoencoders-implmentation_in_PyTorch
 
-This Repo is about PCA implmentation PyTorch which acts as Autoencoder
+This Repo is about PCA implmentation PyTorch which acts as Linear Autoencoder
 
-![Alt text](mathematical%20equation.JPG)
+The following picture shows the Architecture of simple Autoencoder
+
+![Alt text](images/ae.png)
+
+![Alt text](images/mathematical%20equation.JPG)
