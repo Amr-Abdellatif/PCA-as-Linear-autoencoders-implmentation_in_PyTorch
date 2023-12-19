@@ -1,5 +1,3 @@
-# PCA-as-autoencoders-implmentation_in_PyTorch
-
 # PyTorch PCA Autoencoder
 
 A PyTorch implementation of Principal Component Analysis (PCA) as an Autoencoder. This repository provides a simple and elegant way to perform PCA using PyTorch while leveraging autoencoder architecture.
